@@ -33,6 +33,7 @@ py -m pip install -r requirements.txt
 
 bash
 git clone https://github.com/Tomoti432/tom-oti-truss-interview-assessment.git
+
 cd tom-oti-truss-interview-assessment
 
 
